@@ -6,7 +6,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/theayushsharmaaaa) • [GitHub](https://www.github.com/theayushsharmaaaa)  
 
 ## Skills
-- **Languages:** Python, JavaScript, C/C++, Bash, SQL(SQLite, MySQL) | Frameworks: Flask, React, LangChain
+- **Languages:** Python, JavaScript, C/C++, Bash, SQL(SQLite, MySQL) **| Frameworks:** Flask, React, LangChain
 - **Libraries:** Pandas, NumPy, SciPy, PyTorch, TensorFlow, OpenCV, BeautifulSoup4, Matplotlib, Sci-Kit-Learn 
 - **Tools/Tech:** Git, API Development, Linux/Unix, HuggingFace, Object-Oriented Programming
 - **Others:** HTML, CSS, Shell Scripting, MATLAB, LATEX, Digital Marketing, Influencer Outreach, Brand Collaboration
