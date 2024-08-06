@@ -60,7 +60,6 @@ Hi! I'm Ayush Sharma, a dedicated student of Computer Science and Artificial Int
 
 - **Mobile Infectious Disease Control Bot**
   - An autonomous robot to minimize healthcare workers' exposure using Python and ROS.
-  - [Repository](https://github.com/theayushsharmaaaa/disease-control-bot)
 
 ---
 
@@ -79,4 +78,3 @@ Hi! I'm Ayush Sharma, a dedicated student of Computer Science and Artificial Int
 
 Feel free to reach out to me for collaboration or just to say hi! 😊
 
-![Footer](https://your-footer-image-link.com)
