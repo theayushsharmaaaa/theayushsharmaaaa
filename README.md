@@ -6,7 +6,7 @@
 
 🎓 BTech in Computer Science and Artificial Intelligence from Plaksha University
 
-🔗 [Website](https://theayushsharmaaaa.github.io/my-portfolio/) | [LinkedIn](https://www.linkedin.com/in/theayushsharmaaaaa/) | [GitHub](https://github.com/theayushsharmaaaa)
+🔗 [Website](https://theayushsharmaaaa.github.io/my-portfolio/) | [LinkedIn](https://www.linkedin.com/in/theayushsharmaaaa/) | [GitHub](https://github.com/theayushsharmaaaa)
 
 ---
 
