@@ -1,80 +1,94 @@
 # Ayush Sharma
 
-**`Aspiring AI Engineer | Full Stack Developer | Tech Enthusiast`**
+**`Aspiring Software Engineer | Full Stack Developer | Tech Enthusiast`**  
 
-📍 Mohali, India
+📍 Mohali, India  
 
-🎓 BTech in Computer Science and Artificial Intelligence from Plaksha University
+🎓 BTech in Computer Science and Artificial Intelligence from Plaksha University  
 
-🔗 [Website](https://theayushsharmaaaa.github.io/my-portfolio/) | [LinkedIn](https://www.linkedin.com/in/theayushsharmaaaa/) | [GitHub](https://github.com/theayushsharmaaaa)
-
----
-
-### 👋 About Me
-
-Hi! I'm Ayush Sharma, a dedicated student of Computer Science and Artificial Intelligence with a passion for developing innovative solutions and a keen interest in machine learning, data science, and full-stack development. I love to learn, explore, and create, and I'm always on the lookout for new challenges and opportunities.
+🔗 [Website](https://theayushsharmaaaa.github.io/my-portfolio/) | [LinkedIn](https://www.linkedin.com/in/theayushsharmaaaa/) | [GitHub](https://github.com/theayushsharmaaaa)  
 
 ---
 
-### 🚀 Skills & Tools
+## 👋 About Me  
 
-- **Languages:** Python, JavaScript, C/C++, Bash, SQL (SQLite, MySQL)
-- **Frameworks & Libraries:** Flask, React, LangChain, Pandas, NumPy, SciPy, PyTorch, TensorFlow, OpenCV, BeautifulSoup4, Matplotlib, Sci-Kit-Learn
-- **Technologies:** Git, API Development, Linux/Unix, HuggingFace, Object-Oriented Programming
-- **Web Development:** HTML, CSS, Shell Scripting
-- **Others:** MATLAB, LATEX, Digital Marketing, Influencer Outreach, Brand Collaboration
+Hi! I'm Ayush Sharma, a passionate AI and full-stack developer exploring machine learning, data science, and software engineering. I thrive on solving complex problems, building innovative solutions, and staying ahead with the latest tech trends. Currently, I'm working on fraud detection in DeFi, contextual bandits for recommendation systems, and a student-focused travel planner app. 🚀  
 
 ---
 
-### 🏆 Achievements & Awards
+## 🚀 Skills & Tools  
 
-- **Bharti Scholar:** Awarded by the Bharti Foundation to top 20 students at Plaksha University.
-- **Hack Plaksha’24 Finalist:** Developed a fashion recommender using computer vision.
-- **2nd Position at HOUSE OF SHARKS:** Sustainable business idea pitch competition organized by Miranda House, DU.
-- **Academic Excellence Award:** Achieved 100% in Mathematics and Computer Application in class 10th.
-
----
-
-### 💼 Experience
-
-- **Program Management Intern** | Plaksha University (May 2023 - June 2023)
-  - Coordinated activities for 200 students, organized daily events, and led the Student Committee.
-
-- **Administrative and Social Media Intern** | CTLC, Plaksha University (October 2022 - May 2023)
-  - Managed social media platforms, increasing engagement by 30%, and coordinated events.
-
-- **Senior Teaching Assistant** | Young Technology Scholars Program (April 2024 - June 2024)
-  - Taught electronics and circuit simulation to 240 students, led smart home automation projects.
+- **Languages:** Python, JavaScript, C/C++, Bash, SQL (SQLite, MySQL)  
+- **Frameworks & Libraries:** Flask, React, LangChain, PyTorch, TensorFlow, Pandas, NumPy, SciPy, OpenCV, BeautifulSoup4, Matplotlib, Sci-Kit-Learn  
+- **Technologies:** Git, API Development, Linux/Unix, Docker, CI/CD, HuggingFace, Object-Oriented Programming  
+- **Web Development:** HTML, CSS, Shell Scripting  
+- **Others:** MATLAB, LATEX, Digital Marketing, AI Model Training, Version Control  
 
 ---
 
-### 📂 Projects
+## 🏆 Achievements & Awards  
 
-- **Sorting Algorithm Visualizer**
-  - A web app to visualize various sorting algorithms using JavaScript, HTML, and CSS.
-  - [Live Demo](https://theayushsharmaaaa.github.io/sorting-algorithm-visualizer/) | [Repository](https://github.com/theayushsharmaaaa/sorting-algorithm-visualizer)
-
-- **Malware Detection Model Using CNN-LSTM**
-  - Developed a machine learning model with 99% precision for detecting malware in PE files.
-  - [Repository](https://github.com/theayushsharmaaaa/malware-detection-cnn-lstm)
-
-- **Mobile Infectious Disease Control Bot**
-  - An autonomous robot to minimize healthcare workers' exposure using Python and ROS.
+🏅 **1st Place - Escape Room CTF:** Solved cybersecurity challenges among 30+ participants.  
+🏅 **1st Place - Code Clash:** DSA competition with over 80 participants.  
+🏅 **2nd Place - Code Breakers:** A Linux, networking, and Bash challenge event.  
+🏅 **Finalist - Hack Plaksha'24:** Built a **Fashion Recommender** using Computer Vision.  
+🏅 **2nd Place - HOUSE OF SHARKS:** Sustainable business idea pitch competition.  
+🏅 **Bharti Scholar:** Awarded to top 20 students at Plaksha University.  
 
 ---
 
-### 📈 GitHub Stats
+## 💼 Experience  
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theayushsharmaaaa&show_icons=true&theme=radical)
+- **Software Development Engineer Intern** | Bluestock Fintech (February 2024 - Present)
+  - Working on financial data visualization to make an interactive dashboard for the website using **React**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theayushsharmaaaa&layout=compact&theme=radical)
+- **Freelance AI Trainer** | Outlier.ai (September 2024 - Present)  
+  - Training Gen-AI models, improving response accuracy by 78% and reducing errors by 35%.  
+
+- **Senior Teaching Assistant** | Young Technology Scholars (April 2024 - June 2024)  
+  - Taught electronics and circuit simulation to 240 students, leading automation projects.  
 
 ---
 
-### 📫 Get in Touch
+## 📂 Projects  
 
-- **Email:** [ayush.sharma1@plaksha.edu.in](mailto:ayush.sharma1@plaksha.edu.in)
-- **Phone:** +91 82358 53952
+- **Fraud Detection in DeFi**  
+  - Built a model analyzing **200K+ Bitcoin transactions** with **85%+ accuracy** to identify illicit wallets.  
+  - Leveraged **Graph Neural Networks (GNNs)** and **Deep Learning** for fraud detection.
+  - [🔗 Repository](https://github.com/theayushsharmaaaa/deep-learning-project) 
 
-Feel free to reach out to me for collaboration or just to say hi! 😊
+- **Contextual Bandit-Based News Recommender**  
+  - Designed a model recommending news articles dynamically based on **user behavior and feedback loops**.  
 
+- **Malware Detection Model (CNN-LSTM)**  
+  - Achieved **99% precision** in detecting malware in **PE files** using CNN-LSTM models.  
+  - [🔗 Repository](https://github.com/theayushsharmaaaa/malware-detection-cnn-lstm)  
+
+- **Sorting Algorithm Visualizer**  
+  - Web app visualizing **Bubble, Insertion, Selection, Merge, and Quick Sort** algorithms.  
+  - [🔗 Live Demo](https://theayushsharmaaaa.github.io/sorting-algorithm-visualizer/) | [🔗 Repository](https://github.com/theayushsharmaaaa/sorting-algorithm-visualizer)  
+
+- **Travrse - A Travel Planner for Students** *(In Development 🚀)*  
+  - An inclusive app connecting students for budget-friendly, verified travel experiences.  
+
+---
+
+## 📈 GitHub Activity  
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theayushsharmaaaa&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theayushsharmaaaa&layout=compact&theme=radical)  
+
+---
+
+## 🏆 LeetCode Stats  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/theayushsharmaaaa?theme=dark&font=Mulish)
+
+---
+
+## 📫 Get in Touch  
+
+📧 **Email:** [ayush.sharma1@plaksha.edu.in](mailto:ayush.sharma1@plaksha.edu.in)  
+📱 **Phone:** +91 82358 53952  
+
+---
